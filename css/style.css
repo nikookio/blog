@@ -684,10 +684,6 @@ video {
   width: 1.5rem;
 }
 
-.max-w-xl {
-  max-width: 36rem;
-}
-
 .max-w-2xl {
   max-width: 42rem;
 }
@@ -1055,6 +1051,28 @@ section.content > pre:not(:last-child) {
     background-color: transparent;
   }
 
+  .md\:p-0 {
+    padding: 0px;
+  }
+
+  .md\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .md\:font-medium {
+    font-weight: 500;
+  }
+
+  .md\:hover\:bg-transparent:hover {
+    background-color: transparent;
+  }
+
+  .md\:hover\:text-slate-100:hover {
+    --tw-text-opacity: 1;
+    color: rgb(241 245 249 / var(--tw-text-opacity));
+  }
+}
   .md\:p-0 {
     padding: 0px;
   }
