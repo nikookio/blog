@@ -6,7 +6,16 @@
     <description>Recent content on Niko Okio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikookio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikookio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to build a SaaS application</title>
+      <link>https://www.nikookio.com/posts/how-to-build-a-saas/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nikookio.com/posts/how-to-build-a-saas/</guid>
+      <description>How to build a SaaS application A software as a service (SaaS) application is a software application delivered over the internet. SaaS applications are usually subscription based, with users paying a monthly or annual fee. If you&amp;rsquo;re thinking of building a SaaS application, there are a few things you&amp;rsquo;ll need to keep in mind. In this blog post, I&amp;rsquo;ll guide you through the high level process of building a SaaS application, from start to finish and how I&amp;rsquo;m tackling it!</description>
+    </item>
+    
     <item>
       <title>Why Digital Ocean is a great hosting platform for your SaaS product</title>
       <link>https://www.nikookio.com/posts/digital-ocean-hosting/</link>
