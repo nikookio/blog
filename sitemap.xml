@@ -2,10 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.nikookio.com/posts/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.nikookio.com/categories/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/categories/digital-ocean/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/tags/hosting/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/tags/infrastructure/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nikookio.com/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/tags/saas/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/categories/saas/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/tags/server/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nikookio.com/tags/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/posts/digital-ocean-hosting/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/categories/buildinpublic/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/categories/journey/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nikookio.com/posts/hello-world/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BuildInPublic on Niko Okio</title>
+    <link>https://www.nikookio.com/categories/buildinpublic/</link>
+    <description>Recent content in BuildInPublic on Niko Okio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nikookio.com/categories/buildinpublic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my journey</title>
+      <link>https://www.nikookio.com/posts/hello-world/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nikookio.com/posts/hello-world/</guid>
+      <description>Hi there 👋🏻
+I&amp;rsquo;m Niko and starting to build in public! This can be a scary step in the beginning, because everything you do will be judged by the public. But on the other hand you get a lot of valuable inputs and feedback along the journey. So it&amp;rsquo;s defenitly worth it!
+My Goal 🎯 for now is to launch 2+ Products in 2022, gain some customers that pay me and learn a lot of things on the go!</description>
+    </item>
+    
+  </channel>
+</rss>
